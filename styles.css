@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.produts{
+  max-width: 1000px;
+  width: 90vw;
+  margin: 4rem auto;
+}
+
+.input{
+  margin-bottom: 1rem;
+}
+
+.text-input{
+  padding: .5rem;
+  background-color: #e2e8f0;
+  letter-spacing: 1px;
+  border-color: transparent;
+  border-radius: .25rem;
+}
